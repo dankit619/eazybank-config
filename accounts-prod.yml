@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related to Prod APIs"
+  contactDetails:
+    name : "Boni - Product owner"
+    email: "boni@eazy.com"
+  onCallSupport:
+    - 777123
+    - 777234

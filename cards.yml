@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank Cards service"
+  contactDetails:
+    name: "Ankit - Developer"
+    email: "ankit@gmail.com"
+  onCallSupport:
+    - 033261
+    - 033262

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank Cards service for QA related issue"
+  contactDetails:
+    name: "Bina - QA Lead"
+    email: "bina@gmail.com"
+  onCallSupport:
+    - 022261
+    - 022262

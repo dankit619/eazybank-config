@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank"
+  contactDetails:
+    name : "Ankit Architect"
+    email: "ankit@eazy.com"
+  onCallSupport:
+    - 555123
+    - 555234

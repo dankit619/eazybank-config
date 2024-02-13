@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank Loans service related to Dev APIs"
+  contactDetails:
+    name: "Bina - Dev Lead"
+    email: "bina@qmail.com"
+  onCallSupport:
+    - 666777
+    - 777888
