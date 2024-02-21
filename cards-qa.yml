@@ -1,8 +1,8 @@
-build:
+ble build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank Cards service for QA related issue"
+  message: "Welcome to EazyBank Cards service for QA related convertible issue"
   contactDetails:
     name: "Bina - QA Lead"
     email: "bina@gmail.com"
