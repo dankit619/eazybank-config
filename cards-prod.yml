@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Cards service for Production related issues"
+  message: "Welcome to EazyBank Cards service for Product related issues"
   contactDetails:
     name: "Boni - Product owner"
     email: "boni@gmail.com"
